@@ -1,7 +1,7 @@
 Source: libbootylite-perl
 Section: perl
 Priority: optional
-Maintainer: Moritz Lenz <moritz@>
+Maintainer: Moritz Lenz <moritz@faui2k3.org>
 Build-Depends: debhelper (>= 9.20120312)
 Build-Depends-Indep: perl
 Standards-Version: 3.9.5
