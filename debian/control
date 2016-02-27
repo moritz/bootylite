@@ -1,0 +1,16 @@
+Source: libbootylite-perl
+Section: perl
+Priority: optional
+Maintainer: Moritz Lenz <moritz@>
+Build-Depends: debhelper (>= 9.20120312)
+Build-Depends-Indep: perl
+Standards-Version: 3.9.5
+Homepage: https://metacpan.org/release/Bootylite
+
+Package: libbootylite-perl
+Architecture: all
+Depends: ${misc:Depends}, ${perl:Depends}
+Description: (no short description found)
+ (no description was found)
+ .
+ This description was automagically extracted from the module by dh-make-perl.
